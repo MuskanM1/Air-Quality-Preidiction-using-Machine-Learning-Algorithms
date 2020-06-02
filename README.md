@@ -1,4 +1,4 @@
-# Air-Quality-Preidiction-using-Machine-Learning-Algorithms
+# Air-Quality-Prediction-using-Machine-Learning-Algorithms
 
 ## Table of contents
 * [General info](#general-info)
